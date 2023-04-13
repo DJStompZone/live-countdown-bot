@@ -22,7 +22,7 @@
   "homepage": "https://github.com/radiantly/live-countdown-bot#readme",
   "dependencies": {
     "better-sqlite3": "^7.1.2",
-    "chrono-node": "^2.2.7",
+    "chrono-node": "^2.6.1",
     "discord.js": "^13.1.0",
     "got": "^11.8.1"
   },
