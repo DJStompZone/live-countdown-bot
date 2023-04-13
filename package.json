@@ -24,7 +24,7 @@
     "better-sqlite3": "^7.1.2",
     "chrono-node": "^2.2.7",
     "discord.js": "^13.1.0",
-    "got": "^11.8.1"
+    "got": "^11.8.6"
   },
   "devDependencies": {
     "@babel/core": "^7.14.3",
